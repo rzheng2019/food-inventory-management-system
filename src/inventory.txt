@@ -1,0 +1,8 @@
+tomato, 0.99, 597
+potato, 1.35, 1599
+cabbage, 0.8, 977
+carrot, 0.9, 781
+corn, 1.15, 699
+onion, 1.2, 899
+green-onion, 0.5, 596
+garlic, 1.0, 1396
